@@ -7,7 +7,6 @@ title: Outreach projects
 icon: fa-home
 order: 1
 ---
----
 layout: page
 title: Publications
 icon: fa-book
