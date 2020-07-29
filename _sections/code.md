@@ -20,6 +20,8 @@ Using this screen-free activity, students can grasp the concepts of coding.
 
 2. Command codes:
 
+![Commands](assets/images/codebreakers_actions.jpg)
+
 3. Rules for the current maze:
 
 * You must get 3 $ (candy) and go from start to finish.
