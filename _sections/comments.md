@@ -1,7 +1,7 @@
 ---
 title: Your comments and experiences
 icon: fa-check
-order: 6
+order: 7
 ---
 How did your school event go?
 
