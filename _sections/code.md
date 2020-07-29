@@ -1,6 +1,7 @@
 ---
 title: Code Breakers Activity
 subtitle: Learn to code with this activity
+layout: page
 order: 4
 icon: fa-book
 ---
