@@ -33,4 +33,5 @@ Using this screen-free activity, students can grasp the concepts of coding.
 
 4. Start the maze!
 
+![Maze](assets/images/codebreakers_maze.jpg)
 
