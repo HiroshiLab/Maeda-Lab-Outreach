@@ -21,7 +21,7 @@ Using this screen-free activity, students can grasp the concepts of coding.
 
 2. Command codes:
 
-![Commands](assets/images/codebreakers_actions.jpg)
+![Commands](assets/images/codebreakers_actions2.jpg)
 
 3. Rules for the current maze:
 
@@ -34,5 +34,5 @@ Using this screen-free activity, students can grasp the concepts of coding.
 
 4. Start the maze!
 
-![Maze](assets/images/codebreakers_maze.jpg)
+![Maze](assets/images/codebreakers_maze2.jpg)
 
