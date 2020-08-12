@@ -4,6 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: category
 title: Outreach activities
-icon: fa-home
+icon: fa-pencil-alt
 order: 2
 ---
