@@ -6,7 +6,7 @@ order: 3
 icon: fa-book
 ---
 
-Kids can see that plants beautiful pigments, and now they can use them to paint!
+Kids can see that plants make beautiful pigments, and now they can use them to paint!
 
 ## Learning Goals
 
