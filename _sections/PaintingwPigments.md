@@ -18,7 +18,7 @@ Kids can see that plants make beautiful pigments, and now they can use them to p
 
 1. Children are given a blank piece of construction paper, and vials of pigments of various colors that have been isolated from plants that are placed in front of them.
 
-![pigment1](image here)
+![pigment1](assets/images/paintingwpigments2.png)
 
 2. Children paint images with the pigments like watercolors, and can guess what pigments came from what plants.
 
