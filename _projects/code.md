@@ -2,7 +2,7 @@
 title: Code Breakers Activity
 subtitle: Learn to code with this activity
 layout: page
-order: 4
+order: 3
 icon: fa-book
 ---
 
