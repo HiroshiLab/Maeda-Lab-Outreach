@@ -2,7 +2,7 @@
 title: Painting with Pigments
 subtitle: Use plant pigments for your own artistic vision!
 layout: page
-order: 3
+order: 2
 icon: fa-book
 ---
 
