@@ -6,6 +6,8 @@ icon: fa-book
 order: 3
 ---
 Articles related to our work:
+[Seondary Metabolites and Human Heath](https://sites.psu.edu/carolyn/2016/03/24/secondary-metabolites-and-human-health/)
+[What are antioxidants and why do we need them?](https://www.medicalnewstoday.com/articles/301506#supplements)
 
 Recent publications from our lab (*corresponding author):
 1. Maeda H.A.* (2019b) Harnessing evolutionary diversification of primary metabolism for plant synthetic biology [J. Biol. Chem., 294, 16549-16566.](https://www.jbc.org/content/294/45/16549?utm_source=JBCReviews&utm_medium=emaill) Invited review in "Natural product biosynthesis: What's next? A thematic series"
@@ -15,4 +17,4 @@ Recent publications from our lab (*corresponding author):
 5. de Oliveira M.V.V., Jin X., Chen X., Griffith D., Batchu S., Maeda H.A.* (2019). Imbalance of tyrosine by modulating TyrA arogenate dehydrogenases impacts growth and development of Arabidopsis thaliana. [Plant J. 97, 901-922.](https://pubmed.ncbi.nlm.nih.gov/30457178/)
 6. Smith S.D.*, Angelovici R., Heyduk K., Maeda H.A., Moghe G.D., Pires J.C., Widhalm J.R., Wisecaver J.H. (2019). The Renaissance of Comparative Biochemistry. [Am. J. Bot.. 106, 3-13.](https://pubmed.ncbi.nlm.nih.gov/30629738/)
 
-For more publications from our lab please visit: [Maeda Lab: Publications](https://maeda.botany.wisc.edu/wiki/Maeda_Lab:Publications)
+For more publications from our lab please visit: [Maeda Lab - Publications](https://maeda.botany.wisc.edu/wiki/Maeda_Lab:Publications)
