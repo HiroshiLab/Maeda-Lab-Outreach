@@ -5,13 +5,13 @@ layout: "page"
 icon: fa-book
 order: 4
 ---
-<p style="color:blue;font-size:18px;">Articles related to our work:</p>
+<p style="color:purple;font-size:30px;">Articles related to our work:</p>
 
 [Seondary Metabolites and Human Heath](https://sites.psu.edu/carolyn/2016/03/24/secondary-metabolites-and-human-health/)
 
 [What are antioxidants and why do we need them?](https://www.medicalnewstoday.com/articles/301506#supplements)
 
-<p style="color:blue;font-size:18px;">Recent publications from our lab (*corresponding authors):</p>
+<p style="color:purple;font-size:30px;">Recent publications from our lab (*corresponding authors):</p>
 1. Maeda H.A.* (2019b) Harnessing evolutionary diversification of primary metabolism for plant synthetic biology [J. Biol. Chem., 294, 16549-16566.](https://www.jbc.org/content/294/45/16549?utm_source=JBCReviews&utm_medium=emaill) Invited review in "Natural product biosynthesis: What's next? A thematic series"
 2. Maeda H.A.* (2019a) Evolutionary diversification of primary metabolism and its contribution to plant chemical diversity [Front. Plant Sci., 10 July 2019](https://www.frontiersin.org/articles/10.3389/fpls.2019.00881/full) Invited review on the special issue, "The Origin of Plant Chemodiversity".
 3. Wang M., Toda K., Block A., Maeda H.A.* (2019) TAT1 and TAT2 tyrosine aminotransferases have both distinct and shared functions in tyrosine metabolism and degradation in Arabidopsis thaliana. [J. Biol. Chem. 294, 3563-3576.](https://www.jbc.org/content/294/10/3563)
