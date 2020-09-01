@@ -9,7 +9,9 @@ order: 4
 
 [Seondary Metabolites and Human Heath](https://sites.psu.edu/carolyn/2016/03/24/secondary-metabolites-and-human-health/)
 
-[What are antioxidants and why do we need them?](https://www.medicalnewstoday.com/articles/301506#supplements)
+[Research Reveals Potato as Antioxidant Powerhouse](https://extension.umaine.edu/agriculture/agriculture-water-quality/potato-antioxidant-research/)
+
+[The Science Behind Fall Foliage](https://www.americanforests.org/blog/science-behind-fall-foliage/#:~:text=Carotenoids%20create%20orange%20and%20yellow,the%20green%20of%20the%20chlorophyll)
 
 <p style="color:purple;font-size:30px;">Recent publications from our lab (*corresponding authors):</p>
 1. Maeda H.A.* (2019b) Harnessing evolutionary diversification of primary metabolism for plant synthetic biology [J. Biol. Chem., 294, 16549-16566.](https://www.jbc.org/content/294/45/16549?utm_source=JBCReviews&utm_medium=emaill) Invited review in "Natural product biosynthesis: What's next? A thematic series"
